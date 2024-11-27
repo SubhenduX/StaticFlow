@@ -1,6 +1,6 @@
 StaticFlow is an open-source, PHP-based Content Management System (CMS) designed to simplify and enhance the workflow of managing Hugo, the world's fastest static site generator. By bridging the gap between static site generation and intuitive content management, StaticFlow empowers users—developers and non-developers alike—to build, edit, and deploy Hugo-powered websites effortlessly.
 
-Key Features
+#Key Features
 Content Creation & Editing:
 
 Built-in support for creating and managing Markdown files with Hugo-compatible front matter.
