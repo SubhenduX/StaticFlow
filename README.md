@@ -37,5 +37,3 @@ With StaticFlow, users can enjoy the best of both worlds:
 The blazing speed and reliability of Hugo static sites.
 The simplicity and convenience of a dynamic CMS interface.
 Whether you’re a developer seeking automation or a content creator looking for ease of use, StaticFlow is your go-to solution for managing Hugo-powered websites.
-
-Let me know if you'd like help with writing additional project documentation or setting up a GitHub repository!
